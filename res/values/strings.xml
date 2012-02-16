@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KKB</string>
+    <string name="btn_out">支出</string>
+    <string name="btn_in">収入</string>
+    <string name="btn_move">移動</string>
+    <string name="btn_account_list">一覧</string>
+    <string name="btn_month">月間</string>
+    <string name="colon">:</string>
+    <string name="top_term">今月の期間</string>
+    <string name="top_month_total">今月の合計</string>
+    <string name="top_total">合計</string>
+    <string name="selectDate">2000年01月01日</string>
+    <string name="dummy">dummy</string>
+
+</resources>

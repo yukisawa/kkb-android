@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+
+    <item
+        android:bottom="8dip"
+        android:left="5dip"
+        android:right="5dip"
+        android:top="5dip">
+        <selector>
+            <item android:state_pressed="true">
+                <shape>
+                    <gradient
+                        android:angle="90"
+                        android:endColor="@color/basic_white1"
+                        android:startColor="@color/basic_orange1" />
+
+                    <corners android:radius="10dip" />
+
+                    <stroke
+                        android:width="2dip"
+                        android:color="@color/basic_blue1" />
+
+                    <padding
+                        android:bottom="15dip"
+                        android:left="15dip"
+                        android:right="15dip"
+                        android:top="15dip" />
+                </shape>
+            </item>
+            <item android:state_focused="true">
+                <shape>
+                    <gradient
+                        android:angle="90"
+                        android:endColor="@color/basic_white1"
+                        android:startColor="@color/basic_orange2" />
+
+                    <corners android:radius="10dip" />
+
+                    <stroke
+                        android:width="2dip"
+                        android:color="@color/basic_blue1" />
+
+                    <padding
+                        android:bottom="15dip"
+                        android:left="15dip"
+                        android:right="15dip"
+                        android:top="15dip" />
+                </shape>
+            </item>
+            <item>
+                <shape>
+                    <gradient
+                        android:angle="90"
+                        android:endColor="@color/basic_white1"
+                        android:startColor="@color/basic_white2" />
+
+                    <corners android:radius="10dip" />
+
+                    <stroke
+                        android:width="2dip"
+                        android:color="@color/basic_blue1" />
+
+                    <padding
+                        android:bottom="15dip"
+                        android:left="15dip"
+                        android:right="15dip"
+                        android:top="15dip" />
+                </shape>
+            </item>
+        </selector>
+    </item>
+
+</layer-list>

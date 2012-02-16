@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="base_text">#f000</color>
+    <color name="top_btn_bg">#ccc</color>
+    <color name="r">#f00</color>
+    <color name="g">#0f0</color>
+    <color name="b">#00f</color>
+    <color name="dialog_top_bright">#0f0</color>
+    <color name="dialog_top_dark">#0f0</color>
+    <color name="dialog_center_bright">#0f0</color>
+    <color name="dialog_center_dark">#0f0</color>
+    <color name="dialog_center_medium">#0f0</color>
+    <color name="dialog_bottom_bright">#0f0</color>
+    <color name="dialog_bottom_dark">#0f0</color>
+    <color name="dialog_bottom_medium">#0f0</color>
+    <color name="basic_blue1">#5781a9</color>
+    <color name="basic_blue2">#a4bcc6</color>
+    <color name="basic_blue3">#995781a9</color>
+    <color name="basic_orange1">#99eca14f</color>
+    <color name="basic_orange2">#66eca14f</color>
+    <color name="basic_white1">#eeffffff</color>
+    <color name="basic_white2">#99ffffff</color>
+
+</resources>

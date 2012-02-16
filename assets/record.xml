@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<record>
+	<row>
+		<id>1</id>
+		<account_id>1</account_id>
+		<item_id>1</item_id>
+		<balance_flag>0</balance_flag>
+		<amount>100</amount>
+		<memo>memo</memo>
+	</row>
+	<row>
+		<id>2</id>
+		<account_id>1</account_id>
+		<item_id>1</item_id>
+		<balance_flag>0</balance_flag>
+		<amount>100</amount>
+		<memo>memo</memo>
+	</row>
+	<row>
+		<id>3</id>
+		<account_id>1</account_id>
+		<item_id>1</item_id>
+		<balance_flag>0</balance_flag>
+		<amount>100</amount>
+		<memo>memo</memo>
+	</row>
+</record>
